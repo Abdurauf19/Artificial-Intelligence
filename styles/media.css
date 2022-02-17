@@ -16,7 +16,7 @@
     .information-container {
         flex-wrap: wrap;
     }
-    .swiper-wrapper {
+    .slider-boxs {
     flex-wrap: wrap;
     }
     .slider-content__title {
@@ -26,6 +26,7 @@
     .slider-content__text {
         font-size: 0.8rem;
     }
+    
     /* Client Comments  */
     .client-container {
     flex-wrap: wrap;
